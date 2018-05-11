@@ -2,12 +2,12 @@ In diesem Ordner befinden sich die Dateien zum Blog-Artikel
 
 Coding4Kids: Ein Kniffel-Clone
 
-Dateien:
-sourcecode.zip       Vollständiger Quellcode des Lazarus-Projektes
-linux.tar.gz         Lauffähiges Spiel für Linux (entpacken mit tar xfvz linux.tar.gz)
-windows.zip          Lauffähiges Spiel für Windows
-Wuerfel.xlsx         Quelle für erstellte Bitmapdateien (Würfel oder Würfelbecher) für Ihre Erweiterungen
+Ordner:
+src                  VollstÃ¤ndiger Quellcode des Lazarus-Projektes
+linux                LauffÃ¤higes Spiel fÃ¼r Linux (entpacken mit tar xfvz linux.tar.gz)
+windows              LauffÃ¤higes Spiel fÃ¼r Windows
+design               Quelle fÃ¼r erstellte Bitmapdateien (WÃ¼rfel oder WÃ¼rfelbecher) fÃ¼r Ihre Erweiterungen
 
-
+Blog-Artikel         https://tangielskyblog.wordpress.com/2018/05/09/coding-fuer-kids-ein-kniffel-clone/
 
 Mehr unter tangielskyblog.wordpress.com
